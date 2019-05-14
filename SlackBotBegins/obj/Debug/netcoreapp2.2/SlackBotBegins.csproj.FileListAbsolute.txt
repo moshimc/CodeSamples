@@ -1,0 +1,13 @@
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\bin\Debug\netcoreapp2.2\SlackBotBegins.deps.json
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\bin\Debug\netcoreapp2.2\SlackBotBegins.runtimeconfig.json
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\bin\Debug\netcoreapp2.2\SlackBotBegins.runtimeconfig.dev.json
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\bin\Debug\netcoreapp2.2\SlackBotBegins.dll
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\obj\Debug\netcoreapp2.2\SlackBotBegins.csproj.CoreCompileInputs.cache
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\obj\Debug\netcoreapp2.2\SlackBotBegins.RazorAssemblyInfo.cache
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\obj\Debug\netcoreapp2.2\SlackBotBegins.RazorAssemblyInfo.cs
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\obj\Debug\netcoreapp2.2\SlackBotBegins.AssemblyInfoInputs.cache
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\obj\Debug\netcoreapp2.2\SlackBotBegins.AssemblyInfo.cs
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\obj\Debug\netcoreapp2.2\SlackBotBegins.RazorTargetAssemblyInfo.cache
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\bin\Debug\netcoreapp2.2\SlackBotBegins.pdb
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\obj\Debug\netcoreapp2.2\SlackBotBegins.dll
+C:\Users\frell\source\repos\SlackBotBegins\SlackBotBegins\obj\Debug\netcoreapp2.2\SlackBotBegins.pdb

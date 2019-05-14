@@ -1,0 +1,17 @@
+c:\users\td programmer\documents\visual studio 2015\Projects\ExportListsForImportActivity\bin\Debug\ExportListsForImportActivity.exe.config
+c:\users\td programmer\documents\visual studio 2015\Projects\ExportListsForImportActivity\obj\Debug\ExportListsForImportActivity.csprojResolveAssemblyReference.cache
+c:\users\td programmer\documents\visual studio 2015\Projects\ExportListsForImportActivity\obj\Debug\ExportListsForImportActivity.csproj.ResolveComReference.cache
+c:\users\td programmer\documents\visual studio 2015\Projects\ExportListsForImportActivity\bin\Debug\ExportListsForImportActivity.exe
+c:\users\td programmer\documents\visual studio 2015\Projects\ExportListsForImportActivity\bin\Debug\ExportListsForImportActivity.pdb
+c:\users\td programmer\documents\visual studio 2015\Projects\ExportListsForImportActivity\bin\Debug\CSharpSDK.dll
+c:\users\td programmer\documents\visual studio 2015\Projects\ExportListsForImportActivity\bin\Debug\Newtonsoft.Json.dll
+c:\users\td programmer\documents\visual studio 2015\Projects\ExportListsForImportActivity\obj\Debug\ExportListsForImportActivity.exe
+c:\users\td programmer\documents\visual studio 2015\Projects\ExportListsForImportActivity\obj\Debug\ExportListsForImportActivity.pdb
+C:\Users\TD Programmer\Documents\Visual Studio 2015\Projects\ExportListsForImportActivity_Upload\bin\Debug\ExportListsForImportActivity.exe.config
+C:\Users\TD Programmer\Documents\Visual Studio 2015\Projects\ExportListsForImportActivity_Upload\obj\Debug\ExportListsForImportActivity.csproj.ResolveComReference.cache
+C:\Users\TD Programmer\Documents\Visual Studio 2015\Projects\ExportListsForImportActivity_Upload\obj\Debug\ExportListsForImportActivity.exe
+C:\Users\TD Programmer\Documents\Visual Studio 2015\Projects\ExportListsForImportActivity_Upload\obj\Debug\ExportListsForImportActivity.pdb
+C:\Users\TD Programmer\Documents\TD\mcmc\CodeSamples\ExactTarget_ExportListsForImportActivity\bin\Debug\ExportListsForImportActivity.exe.config
+C:\Users\TD Programmer\Documents\TD\mcmc\CodeSamples\ExactTarget_ExportListsForImportActivity\obj\Debug\ExportListsForImportActivity.csproj.ResolveComReference.cache
+C:\Users\TD Programmer\Documents\TD\mcmc\CodeSamples\ExactTarget_ExportListsForImportActivity\obj\Debug\ExportListsForImportActivity.exe
+C:\Users\TD Programmer\Documents\TD\mcmc\CodeSamples\ExactTarget_ExportListsForImportActivity\obj\Debug\ExportListsForImportActivity.pdb
